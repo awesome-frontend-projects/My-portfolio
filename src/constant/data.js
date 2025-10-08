@@ -192,7 +192,7 @@ export const projectsItems = [
     title: "E-Commerce Platform",
     text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
     tags: ["React", "Node.js", "MongoDB"],
-    link: "#",
+    link: "https://fullstack-e-commerce-website-six.vercel.app/",
   },
   {
     id: 2,
@@ -208,7 +208,7 @@ export const projectsItems = [
     title: "Plumbing services website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
     tags: ["Next.js", "Tailwindcss", "Framer motion"],
-    link: "#",
+    link: "https://plumbing-services-website.vercel.app/",
   },
   {
     id: 4,
@@ -224,7 +224,7 @@ export const projectsItems = [
     title: "Mobile app landing page",
     text: "Comprehensive medical platform for patient records, appointment scheduling, telemedicine, and health analytics.",
     tags: ["React", "TypeScript", "Framer motion"],
-    link: "#",
+    link: "https://moble-app-landing-page.vercel.app/",
   },
 
   {
@@ -241,7 +241,7 @@ export const projectsItems = [
     title: "Job finding website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
     tags: ["React.js", "Tailwindcss", "Framer motion"],
-    link: "#",
+    link: "https://job-finder-website-landing-page.vercel.app/",
   },
 
   {
@@ -250,7 +250,7 @@ export const projectsItems = [
     title: "Agency website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
     tags: ["React.js", "Tailwind css", "Framer motion"],
-    link: "#",
+    link: "https://acentiq-agency-website.vercel.app/",
   },
   {
     id: 9,
@@ -258,7 +258,7 @@ export const projectsItems = [
     title: "Real Estate website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
     tags: ["React.js", "Tailwind css"],
-    link: "#",
+    link: "https://homely-real-estate-website.vercel.app/",
   },
 ];
 
