@@ -191,7 +191,7 @@ export const projectsItems = [
     img: "/images/portfolio-1.png",
     title: "E-Commerce Platform",
     text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
-    tags: ["React", "Node.js", "MongoDB"],
+    tags: ["Next.js", "Sanity", "Stripe"],
     link: "https://fullstack-e-commerce-website-six.vercel.app/",
   },
   {
@@ -199,7 +199,7 @@ export const projectsItems = [
     img: "/images/portfolio-2.png",
     title: "Real estate listing platform",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
-    tags: ["Next.js", "Tailwindcss", "Sanity"],
+    tags: ["Next.js", "Tailwindcss", "Typescript"],
     link: "https://estatein-mauve.vercel.app/",
   },
   {
