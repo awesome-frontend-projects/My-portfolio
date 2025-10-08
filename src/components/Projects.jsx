@@ -32,6 +32,7 @@ const Projects = () => {
             <motion.div
               variants={variants.fadeIn}
               key={item.id}
+              tabIndex={0}
               className="border border-zinc-200 dark:border-zinc-800 rounded-md overflow-hidden bg-zinc-100/40 dark:bg-zinc-900/40 hover:!border-emerald-600/50 focus:!border-emerald-600/50 transition-all hover:shadow-lg hover:shadow-emerald-600/10 group"
             >
               {/* Image */}
