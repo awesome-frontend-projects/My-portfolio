@@ -32,27 +32,27 @@ const Projects = () => {
             <motion.div
               variants={variants.fadeIn}
               key={item.id}
-              className="border border-zinc-200 dark:border-zinc-800 rounded-md overflow-hidden bg-zinc-100/40 dark:bg-zinc-900/40 hover:!border-emerald-600/50 transition-all hover:shadow-lg hover:shadow-emerald-600/10 group"
+              className="border border-zinc-200 dark:border-zinc-800 rounded-md overflow-hidden bg-zinc-100/40 dark:bg-zinc-900/40 hover:!border-emerald-600/50 focus:!border-emerald-600/50 transition-all hover:shadow-lg hover:shadow-emerald-600/10 group"
             >
               {/* Image */}
               <div className="relative overflow-hidden">
                 <img
                   src={item.img}
                   alt={item.title}
-                  className="w-full h-auto object-cover transition-transform group-hover:scale-105"
+                  className="w-full h-auto object-cover transition-transform group-hover:scale-105 group-focus:scale-105"
                 />
                 {/* overlay */}
-                <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4">
+                <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 group-focus:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4">
                   <a
                     href={item.link}
                     target="_blank"
-                    className="size-12 flex items-center justify-center bg-emerald-600 rounded-full text-white hover:bg-emerald-700 transition-colors"
+                    className="size-12 flex items-center justify-center bg-emerald-600 rounded-full text-white hover:bg-emerald-700 focus:bg-emerald-700 transition-colors"
                   >
                     <RiExternalLinkLine />
                   </a>
                   <a
                     href="#"
-                    className="size-12 flex items-center justify-center bg-white text-black rounded-full hover:bg-zinc-200 transition-colors"
+                    className="size-12 flex items-center justify-center bg-white text-black rounded-full hover:bg-zinc-200 focus:bg-zinc-200 transition-colors"
                   >
                     <RiGithubFill />
                   </a>
@@ -61,7 +61,7 @@ const Projects = () => {
 
               {/* content */}
               <div className="p-5 space-y-3">
-                <h3 className="text-xl font-semibold group-hover:text-emerald-600 transition-colors">
+                <h3 className="text-xl font-semibold group-hover:text-emerald-600 group-focus:text-emerald-600 transition-colors">
                   {item.title}
                 </h3>
                 <p className="text-sm leading-relaxed line-clamp-2 hover:line-clamp-none">
