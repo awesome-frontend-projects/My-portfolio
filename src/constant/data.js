@@ -186,16 +186,16 @@ export const timelineItems = [
 ];
 
 export const projectsItems = [
+  // {
+  //   id: 1,
+  //   img: "/images/portfolio-1.png",
+  //   title: "E-Commerce Platform",
+  //   text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
+  //   tags: ["Next.js", "Sanity", "Stripe"],
+  //   link: "https://fullstack-e-commerce-website-six.vercel.app/",
+  // },
   {
     id: 1,
-    img: "/images/portfolio-1.png",
-    title: "E-Commerce Platform",
-    text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
-    tags: ["Next.js", "Sanity", "Stripe"],
-    link: "https://fullstack-e-commerce-website-six.vercel.app/",
-  },
-  {
-    id: 2,
     img: "/images/portfolio-2.png",
     title: "Real estate listing platform",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
@@ -203,7 +203,7 @@ export const projectsItems = [
     link: "https://estatein-mauve.vercel.app/",
   },
   {
-    id: 3,
+    id: 2,
     img: "/images/portfolio-6.png",
     title: "Plumbing services website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
@@ -211,7 +211,7 @@ export const projectsItems = [
     link: "https://plumbing-services-website.vercel.app/",
   },
   {
-    id: 4,
+    id: 3,
     img: "/images/portfolio-4.png",
     title: "Healthly diet planning website",
     text: "Modern agency portfolio with stunning animations, case studies showcase, and seamless contact integration.",
@@ -219,7 +219,7 @@ export const projectsItems = [
     link: "https://nutritionist-tau.vercel.app/",
   },
   {
-    id: 5,
+    id: 4,
     img: "/images/portfolio-5.png",
     title: "Mobile app landing page",
     text: "Comprehensive medical platform for patient records, appointment scheduling, telemedicine, and health analytics.",
@@ -228,7 +228,7 @@ export const projectsItems = [
   },
 
   {
-    id: 6,
+    id: 5,
     img: "/images/portfolio-3.png",
     title: "E-learning plateform",
     text: "Interactive travel platform for discovering unique glamping locations with booking system, reviews, and interactive maps.",
@@ -236,7 +236,7 @@ export const projectsItems = [
     link: "https://shillpath.vercel.app/",
   },
   {
-    id: 7,
+    id: 6,
     img: "/images/portfolio-7.png",
     title: "Job finding website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
@@ -245,7 +245,7 @@ export const projectsItems = [
   },
 
   {
-    id: 8,
+    id: 7,
     img: "/images/portfolio-8.png",
     title: "Agency website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
@@ -253,7 +253,7 @@ export const projectsItems = [
     link: "https://acentiq-agency-website.vercel.app/",
   },
   {
-    id: 9,
+    id: 8,
     img: "/images/portfolio-9.png",
     title: "Real Estate website",
     text: "Full-service restaurant website with online ordering, table reservations, menu management, and delivery tracking.",
