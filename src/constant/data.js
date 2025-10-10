@@ -243,12 +243,12 @@ export const projectsItems = [
   {
     id: 4,
     img: "/images/password-generator.png",
-    title: "Password Generator app",
-    text: "A password generator app using Javascript",
+    title: "Age calculator app",
+    text: "Age calculator app using Javascript",
     tags: ["Javascript"],
-    link: "https://password-generator-app-nu-lemon.vercel.app/",
+    link: "https://age-calculator-app-virid-kappa.vercel.app/",
     githubLink:
-      "https://github.com/awesome-frontend-projects/Password-generator-app.git",
+      "https://github.com/awesome-frontend-projects/Age-calculator-app.git",
   },
 ];
 
