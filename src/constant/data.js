@@ -254,7 +254,7 @@ export const projectsItems = [
   },
   {
     id: 8,
-    img: "/images/portfolio-9.png",``
+    img: "/images/portfolio-9.png",
     title: "Real Estate website",
     text: "Property marketplace with featured listings, neighborhood guides, property comparison tools, and integrated contact scheduling system.",
     tags: ["React.js", "Tailwind css"],
