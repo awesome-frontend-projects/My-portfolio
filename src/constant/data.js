@@ -201,8 +201,8 @@ export const projectsItems = [
     text: "Body mass index calculator app using Javascript",
     tags: ["Javascript"],
     link: "https://bmi-calculator-app-roan.vercel.app/",
-    githubLink:
-      "https://github.com/awesome-frontend-projects/BMI-Calculator-App.git",
+    // githubLink:
+    //   "https://github.com/awesome-frontend-projects/BMI-Calculator-App.git",
   },
   {
     id: 2,
@@ -211,8 +211,8 @@ export const projectsItems = [
     text: "A simple calculator using Javascript",
     tags: ["Javascript"],
     link: "https://calculator-app-mu-three.vercel.app/",
-    githubLink:
-      "https://github.com/awesome-frontend-projects/calculator-app.git",
+    // githubLink:
+    //   "https://github.com/awesome-frontend-projects/calculator-app.git",
   },
   // {
   //   id: 1,
@@ -237,8 +237,8 @@ export const projectsItems = [
     text: "A password generator app using Javascript",
     tags: ["Javascript"],
     link: "https://password-generator-app-nu-lemon.vercel.app/",
-    githubLink:
-      "https://github.com/awesome-frontend-projects/Password-generator-app.git",
+    // githubLink:
+    //   "https://github.com/awesome-frontend-projects/Password-generator-app.git",
   },
   {
     id: 4,
@@ -247,8 +247,8 @@ export const projectsItems = [
     text: "Tic tac toe game using javascript",
     tags: ["Javascript"],
     link: "https://tic-tac-toe-game-teal-beta.vercel.app/",
-    githubLink:
-      "https://github.com/awesome-frontend-projects/Tic-Tac-Toe-game.git",
+    // githubLink:
+    //   "https://github.com/awesome-frontend-projects/Tic-Tac-Toe-game.git",
   },
   {
     id: 5,
@@ -257,8 +257,8 @@ export const projectsItems = [
     text: "Age calculator app using Javascript",
     tags: ["Javascript"],
     link: "https://age-calculator-app-virid-kappa.vercel.app/",
-    githubLink:
-      "https://github.com/awesome-frontend-projects/Age-calculator-app.git",
+    // githubLink:
+    //   "https://github.com/awesome-frontend-projects/Age-calculator-app.git",
   },
   {
     id: 6,
