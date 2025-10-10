@@ -242,7 +242,7 @@ export const projectsItems = [
   },
   {
     id: 4,
-    img: "/images/password-generator.png",
+    img: "/images/age-calculator.png",
     title: "Age calculator app",
     text: "Age calculator app using Javascript",
     tags: ["Javascript"],
