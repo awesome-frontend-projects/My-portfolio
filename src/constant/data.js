@@ -196,12 +196,20 @@ export const projectsItems = [
   // },
   {
     id: 1,
-    img: "/images/portfolio-2.png",
-    title: "Real estate listing platform",
+    img: "/images/bmi.png",
+    title: "BIM Calculator app",
     text: "Modern real estate interface with clean property cards, elegant typography, smooth transitions, and intuitive navigation design.",
     tags: ["Next.js", "Tailwindcss", "Typescript"],
-    link: "https://estatein-mauve.vercel.app/",
+    link: "https://bmi-calculator-app-roan.vercel.app/",
   },
+  // {
+  //   id: 1,
+  //   img: "/images/portfolio-2.png",
+  //   title: "Real estate listing platform",
+  //   text: "Modern real estate interface with clean property cards, elegant typography, smooth transitions, and intuitive navigation design.",
+  //   tags: ["Next.js", "Tailwindcss", "Typescript"],
+  //   link: "https://estatein-mauve.vercel.app/",
+  // },
   {
     id: 2,
     img: "/images/portfolio-6.png",
