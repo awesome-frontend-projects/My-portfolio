@@ -52,7 +52,7 @@ const Projects = () => {
                     <RiExternalLinkLine />
                   </a>
                   <a
-                    href="#"
+                    href={item.githubLink}
                     className="size-12 flex items-center justify-center bg-white text-black rounded-full hover:bg-zinc-200 focus:bg-zinc-200 transition-colors"
                   >
                     <RiGithubFill />

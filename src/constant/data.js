@@ -201,6 +201,8 @@ export const projectsItems = [
     text: "Body mass index calculator app using Javascript",
     tags: ["Javascript"],
     link: "https://bmi-calculator-app-roan.vercel.app/",
+    githubLink:
+      "https://github.com/awesome-frontend-projects/BMI-Calculator-App.git",
   },
   // {
   //   id: 1,
@@ -225,6 +227,8 @@ export const projectsItems = [
     text: "A password generator app using Javascript",
     tags: ["Javascript"],
     link: "https://password-generator-app-nu-lemon.vercel.app/",
+    githubLink:
+      "https://github.com/awesome-frontend-projects/Password-generator-app.git",
   },
   {
     id: 3,
