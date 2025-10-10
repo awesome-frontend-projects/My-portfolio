@@ -258,6 +258,14 @@ export const projectsItems = [
     tags: ["Next.js", "Tailwindcss", "Typescript"],
     link: "https://estatein-mauve.vercel.app/",
   },
+  {
+    id: 6,
+    img: "/images/portfolio-5.png",
+    title: "Mobile app landing page",
+    text: "Eye-catching landing page with dynamic animations, polished micro-interactions, and seamless responsive design across all devices.",
+    tags: ["React", "TypeScript", "Framer motion"],
+    link: "https://moble-app-landing-page.vercel.app/",
+  },
 ];
 
 export const statsItems = [
