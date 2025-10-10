@@ -231,7 +231,7 @@ export const projectsItems = [
   //   link: "https://plumbing-services-website.vercel.app/",
   // },
   {
-    id: 2,
+    id: 3,
     img: "/images/password-generator.png",
     title: "Password Generator app",
     text: "A password generator app using Javascript",
@@ -241,7 +241,7 @@ export const projectsItems = [
       "https://github.com/awesome-frontend-projects/Password-generator-app.git",
   },
   {
-    id: 3,
+    id: 4,
     img: "/images/tic-tac-toe.png",
     title: "Tic Tac Toe Game",
     text: "Tic tac toe game using javascript",
@@ -251,7 +251,7 @@ export const projectsItems = [
       "https://github.com/awesome-frontend-projects/Tic-Tac-Toe-game.git",
   },
   {
-    id: 4,
+    id: 5,
     img: "/images/age-calculator.png",
     title: "Age calculator app",
     text: "Age calculator app using Javascript",
@@ -261,7 +261,7 @@ export const projectsItems = [
       "https://github.com/awesome-frontend-projects/Age-calculator-app.git",
   },
   {
-    id: 5,
+    id: 6,
     img: "/images/portfolio-2.png",
     title: "Real estate listing platform",
     text: "Modern real estate interface with clean property cards, elegant typography, smooth transitions, and intuitive navigation design.",
@@ -269,7 +269,7 @@ export const projectsItems = [
     link: "https://estatein-mauve.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     img: "/images/portfolio-5.png",
     title: "Mobile app landing page",
     text: "Eye-catching landing page with dynamic animations, polished micro-interactions, and seamless responsive design across all devices.",
@@ -277,7 +277,7 @@ export const projectsItems = [
     link: "https://moble-app-landing-page.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     img: "/images/portfolio-7.png",
     title: "Job finding website",
     text: "Professional job portal design with clean job listings, smooth filtering animations, and polished user interface elements.",
@@ -285,7 +285,7 @@ export const projectsItems = [
     link: "https://job-finder-website-landing-page.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     img: "/images/portfolio-6.png",
     title: "Plumbing services website",
     text: "Professional service website featuring responsive layout, smooth animations, clean service sections, and mobile-optimized design.",
