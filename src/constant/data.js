@@ -250,6 +250,14 @@ export const projectsItems = [
     githubLink:
       "https://github.com/awesome-frontend-projects/Age-calculator-app.git",
   },
+  {
+    id: 5,
+    img: "/images/portfolio-2.png",
+    title: "Real estate listing platform",
+    text: "Modern real estate interface with clean property cards, elegant typography, smooth transitions, and intuitive navigation design.",
+    tags: ["Next.js", "Tailwindcss", "Typescript"],
+    link: "https://estatein-mauve.vercel.app/",
+  },
 ];
 
 export const statsItems = [
