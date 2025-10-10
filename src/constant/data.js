@@ -266,6 +266,22 @@ export const projectsItems = [
     tags: ["React", "TypeScript", "Framer motion"],
     link: "https://moble-app-landing-page.vercel.app/",
   },
+  {
+    id: 7,
+    img: "/images/portfolio-7.png",
+    title: "Job finding website",
+    text: "Professional job portal design with clean job listings, smooth filtering animations, and polished user interface elements.",
+    tags: ["React.js", "Tailwindcss", "Framer motion"],
+    link: "https://job-finder-website-landing-page.vercel.app/",
+  },
+  {
+    id: 8,
+    img: "/images/portfolio-6.png",
+    title: "Plumbing services website",
+    text: "Professional service website featuring responsive layout, smooth animations, clean service sections, and mobile-optimized design.",
+    tags: ["Next.js", "Tailwindcss", "Framer motion"],
+    link: "https://plumbing-services-website.vercel.app/",
+  },
 ];
 
 export const statsItems = [
