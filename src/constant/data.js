@@ -204,6 +204,16 @@ export const projectsItems = [
     githubLink:
       "https://github.com/awesome-frontend-projects/BMI-Calculator-App.git",
   },
+  {
+    id: 2,
+    img: "/images/calculator-app.png",
+    title: "Calculator app",
+    text: "A simple calculator using Javascript",
+    tags: ["Javascript"],
+    link: "https://calculator-app-mu-three.vercel.app/",
+    githubLink:
+      "https://github.com/awesome-frontend-projects/calculator-app.git",
+  },
   // {
   //   id: 1,
   //   img: "/images/portfolio-2.png",
