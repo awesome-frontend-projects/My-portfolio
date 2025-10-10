@@ -222,7 +222,7 @@ export const projectsItems = [
     id: 2,
     img: "/images/password-generator.png",
     title: "Password Generator app",
-    text: "Professional service website featuring responsive layout, smooth animations, clean service sections, and mobile-optimized design.",
+    text: "A password generator app using Javascript",
     tags: ["Javascript"],
     link: "https://password-generator-app-nu-lemon.vercel.app/",
   },
