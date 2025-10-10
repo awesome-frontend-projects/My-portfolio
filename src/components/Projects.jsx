@@ -41,6 +41,7 @@ const Projects = () => {
                   src={item.img}
                   alt={item.title}
                   className="w-full h-auto object-cover transition-transform group-hover:scale-105 group-focus:scale-105"
+                  loading="lazy"
                 />
                 {/* overlay */}
                 <div className="absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 group-focus:opacity-100 transition-opacity duration-300 flex items-center justify-center gap-4">
@@ -53,6 +54,7 @@ const Projects = () => {
                   </a>
                   <a
                     href={item.githubLink}
+                    target="_blank"
                     className="size-12 flex items-center justify-center bg-white text-black rounded-full hover:bg-zinc-200 focus:bg-zinc-200 transition-colors"
                   >
                     <RiGithubFill />
