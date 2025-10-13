@@ -41,7 +41,7 @@ const Hero = () => {
             className="w-2xs h-72 rounded-full overflow-hidden mx-auto lg:mx-0"
           >
             <img
-              src="/images/hero-img.png"
+              src="/images/hero-img.jpg"
               alt=" hero image"
               width={280}
               height={280}
