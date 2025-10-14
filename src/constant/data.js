@@ -186,82 +186,16 @@ export const timelineItems = [
 ];
 
 export const projectsItems = [
-  // {
-  //   id: 1,
-  //   img: "/images/portfolio-1.png",
-  //   title: "E-Commerce Platform",
-  //   text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
-  //   tags: ["Next.js", "Sanity", "Stripe"],
-  //   link: "https://fullstack-e-commerce-website-six.vercel.app/",
-  // },
   {
     id: 1,
-    img: "/images/bmi.png",
-    title: "BIM Calculator app",
-    text: "Body mass index calculator app using Javascript",
-    tags: ["Javascript"],
-    link: "https://bmi-calculator-app-roan.vercel.app/",
-    // githubLink:
-    //   "https://github.com/awesome-frontend-projects/BMI-Calculator-App.git",
+    img: "/images/portfolio-1.png",
+    title: "E-Commerce Platform",
+    text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
+    tags: ["Next.js", "Sanity", "Stripe"],
+    link: "https://fullstack-e-commerce-website-six.vercel.app/",
   },
   {
     id: 2,
-    img: "/images/calculator-app.png",
-    title: "Calculator app",
-    text: "A simple calculator using Javascript",
-    tags: ["Javascript"],
-    link: "https://calculator-app-mu-three.vercel.app/",
-    // githubLink:
-    //   "https://github.com/awesome-frontend-projects/calculator-app.git",
-  },
-  // {
-  //   id: 1,
-  //   img: "/images/portfolio-2.png",
-  //   title: "Real estate listing platform",
-  //   text: "Modern real estate interface with clean property cards, elegant typography, smooth transitions, and intuitive navigation design.",
-  //   tags: ["Next.js", "Tailwindcss", "Typescript"],
-  //   link: "https://estatein-mauve.vercel.app/",
-  // },
-  // {
-  //   id: 2,
-  //   img: "/images/portfolio-6.png",
-  //   title: "Plumbing services website",
-  //   text: "Professional service website featuring responsive layout, smooth animations, clean service sections, and mobile-optimized design.",
-  //   tags: ["Next.js", "Tailwindcss", "Framer motion"],
-  //   link: "https://plumbing-services-website.vercel.app/",
-  // },
-  {
-    id: 3,
-    img: "/images/password-generator.png",
-    title: "Password Generator app",
-    text: "A password generator app using Javascript",
-    tags: ["Javascript"],
-    link: "https://password-generator-app-nu-lemon.vercel.app/",
-    // githubLink:
-    //   "https://github.com/awesome-frontend-projects/Password-generator-app.git",
-  },
-  {
-    id: 4,
-    img: "/images/tic-tac-toe.png",
-    title: "Tic Tac Toe Game",
-    text: "Tic tac toe game using javascript",
-    tags: ["Javascript"],
-    link: "https://tic-tac-toe-game-teal-beta.vercel.app/",
-    // githubLink:
-    //   "https://github.com/awesome-frontend-projects/Tic-Tac-Toe-game.git",
-  },
-  {
-    id: 5,
-    img: "/images/age-calculator.png",
-    title: "Age calculator app",
-    text: "Age calculator app using Javascript",
-    tags: ["Javascript"],
-    link: "https://age-calculator-app-virid-kappa.vercel.app/",
-    // githubLink:
-    //   "https://github.com/awesome-frontend-projects/Age-calculator-app.git",
-  },
-  {
-    id: 6,
     img: "/images/portfolio-2.png",
     title: "Real estate listing platform",
     text: "Modern real estate interface with clean property cards, elegant typography, smooth transitions, and intuitive navigation design.",
@@ -269,7 +203,31 @@ export const projectsItems = [
     link: "https://estatein-mauve.vercel.app/",
   },
   {
-    id: 7,
+    id: 3,
+    img: "/images/portfolio-6.png",
+    title: "Plumbing services website",
+    text: "Professional service website featuring responsive layout, smooth animations, clean service sections, and mobile-optimized design.",
+    tags: ["Next.js", "Tailwindcss", "Framer motion"],
+    link: "https://plumbing-services-website.vercel.app/",
+  },
+  {
+    id: 4,
+    img: "/images/portfolio-4.png",
+    title: "Nutritionist | Healthy Diet Planning website",
+    text: "Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. this responsive multi-page website is designed for a nutritionist or diet planning service. It showcases a clean and modern UI with smooth navigation across 7 main pages: Home, About, Team, Process, Plans, Blog, and Contact.",
+    tags: ["Next.js", "Tailwind CSS", "Framer motion"],
+    link: "https://nutritionist-tau.vercel.app/",
+  },
+  {
+    id: 5,
+    img: "/images/portfolio-3.png",
+    title: "E-learning plateform",
+    text: "Clean educational interface with intuitive layout, smooth page transitions, modern card designs, and excellent mobile responsiveness.",
+    tags: ["Next.js", "Tailwind CSS", "Framer motion"],
+    link: "https://shillpath.vercel.app/",
+  },
+  {
+    id: 6,
     img: "/images/portfolio-5.png",
     title: "Mobile app landing page",
     text: "Eye-catching landing page with dynamic animations, polished micro-interactions, and seamless responsive design across all devices.",
@@ -277,20 +235,30 @@ export const projectsItems = [
     link: "https://moble-app-landing-page.vercel.app/",
   },
   {
-    id: 8,
+    id: 7,
     img: "/images/portfolio-7.png",
     title: "Job finding website",
     text: "Professional job portal design with clean job listings, smooth filtering animations, and polished user interface elements.",
     tags: ["React.js", "Tailwindcss", "Framer motion"],
     link: "https://job-finder-website-landing-page.vercel.app/",
   },
+
+  {
+    id: 8,
+    img: "/images/portfolio-8.png",
+    title: "Agency website",
+    text: "Stunning agency showcase with bold typography, creative layouts, fluid animations, and captivating visual storytelling.",
+    tags: ["React.js", "Tailwind css", "Framer motion"],
+    link: "https://acentiq-agency-website.vercel.app/",
+  },
+
   {
     id: 9,
-    img: "/images/portfolio-6.png",
-    title: "Plumbing services website",
-    text: "Professional service website featuring responsive layout, smooth animations, clean service sections, and mobile-optimized design.",
-    tags: ["Next.js", "Tailwindcss", "Framer motion"],
-    link: "https://plumbing-services-website.vercel.app/",
+    img: "/images/portfolio-9.png",
+    title: "Real Estate website",
+    text: "Elegant property website with sophisticated design, responsive grid layouts, smooth hover effects, and refined user experience.",
+    tags: ["React.js", "Tailwind css"],
+    link: "https://homely-real-estate-website.vercel.app/",
   },
 ];
 
@@ -306,54 +274,3 @@ export const statsItems = [
     text: "Projects Completed",
   },
 ];
-
-// {
-//     id: 3,
-//     img: "/images/portfolio-4.png",
-//     title: "Healthly diet planning website",
-//     text: "Fresh and vibrant health-focused design with smooth scrolling, engaging animations, and carefully crafted visual hierarchy.",
-//     tags: ["Next.js", "Framer Motion", "Tailwind"],
-//     link: "https://nutritionist-tau.vercel.app/",
-//   },
-//   {
-//     id: 4,
-//     img: "/images/portfolio-5.png",
-//     title: "Mobile app landing page",
-//     text: "Eye-catching landing page with dynamic animations, polished micro-interactions, and seamless responsive design across all devices.",
-//     tags: ["React", "TypeScript", "Framer motion"],
-//     link: "https://moble-app-landing-page.vercel.app/",
-//   },
-
-//   {
-//     id: 5,
-//     img: "/images/portfolio-3.png",
-//     title: "E-learning plateform",
-//     text: "Clean educational interface with intuitive layout, smooth page transitions, modern card designs, and excellent mobile responsiveness.",
-//     tags: ["Next.js", "Tailwind CSS", "Framer motion"],
-//     link: "https://shillpath.vercel.app/",
-//   },
-//   {
-//     id: 6,
-//     img: "/images/portfolio-7.png",
-//     title: "Job finding website",
-//     text: "Professional job portal design with clean job listings, smooth filtering animations, and polished user interface elements.",
-//     tags: ["React.js", "Tailwindcss", "Framer motion"],
-//     link: "https://job-finder-website-landing-page.vercel.app/",
-//   },
-
-//   {
-//     id: 7,
-//     img: "/images/portfolio-8.png",
-//     title: "Agency website",
-//     text: "Stunning agency showcase with bold typography, creative layouts, fluid animations, and captivating visual storytelling.",
-//     tags: ["React.js", "Tailwind css", "Framer motion"],
-//     link: "https://acentiq-agency-website.vercel.app/",
-//   },
-//   {
-//     id: 8,
-//     img: "/images/portfolio-9.png",
-//     title: "Real Estate website",
-//     text: "Elegant property website with sophisticated design, responsive grid layouts, smooth hover effects, and refined user experience.",
-//     tags: ["React.js", "Tailwind css"],
-//     link: "https://homely-real-estate-website.vercel.app/",
-//   },
