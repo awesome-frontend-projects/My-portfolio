@@ -186,16 +186,16 @@ export const timelineItems = [
 ];
 
 export const projectsItems = [
-  // {
-  //   id: 1,
-  //   img: "/images/portfolio-1.png",
-  //   title: "E-Commerce Platform",
-  //   text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
-  //   tags: ["Next.js", "Sanity", "Stripe"],
-  //   link: "https://fullstack-e-commerce-website-six.vercel.app/",
-  // },
   {
     id: 1,
+    img: "/images/portfolio-1.png",
+    title: "Movie Streaming website",
+    text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
+    tags: ["Next.js", "Sanity", "Stripe"],
+    link: "https://movie-website-five-kappa.vercel.app/",
+  },
+  {
+    id: 2,
     img: "/images/portfolio-2.png",
     title: "Real estate listing platform",
     text: "Modern real estate interface with clean property cards, elegant typography, smooth transitions, and intuitive navigation design.",
@@ -203,7 +203,7 @@ export const projectsItems = [
     link: "https://estatein-mauve.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     img: "/images/portfolio-6.png",
     title: "Plumbing services website",
     text: "Professional service website featuring responsive layout, smooth animations, clean service sections, and mobile-optimized design.",
@@ -211,7 +211,7 @@ export const projectsItems = [
     link: "https://plumbing-services-website.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     img: "/images/portfolio-4.png",
     title: "Nutritionist | Healthy Diet Planning website",
     text: "Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. this responsive multi-page website is designed for a nutritionist or diet planning service. It showcases a clean and modern UI with smooth navigation across 7 main pages: Home, About, Team, Process, Plans, Blog, and Contact.",
@@ -219,7 +219,7 @@ export const projectsItems = [
     link: "https://nutritionist-tau.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     img: "/images/portfolio-3.png",
     title: "E-learning plateform",
     text: "Clean educational interface with intuitive layout, smooth page transitions, modern card designs, and excellent mobile responsiveness.",
@@ -227,7 +227,7 @@ export const projectsItems = [
     link: "https://shillpath.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     img: "/images/portfolio-5.png",
     title: "Mobile app landing page",
     text: "Eye-catching landing page with dynamic animations, polished micro-interactions, and seamless responsive design across all devices.",
@@ -235,7 +235,7 @@ export const projectsItems = [
     link: "https://moble-app-landing-page.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     img: "/images/portfolio-7.png",
     title: "Job finding website",
     text: "Professional job portal design with clean job listings, smooth filtering animations, and polished user interface elements.",
@@ -244,7 +244,7 @@ export const projectsItems = [
   },
 
   {
-    id: 7,
+    id: 8,
     img: "/images/portfolio-8.png",
     title: "Agency website",
     text: "Stunning agency showcase with bold typography, creative layouts, fluid animations, and captivating visual storytelling.",
@@ -253,7 +253,7 @@ export const projectsItems = [
   },
 
   {
-    id: 8,
+    id: 9,
     img: "/images/portfolio-9.png",
     title: "Real Estate website",
     text: "Elegant property website with sophisticated design, responsive grid layouts, smooth hover effects, and refined user experience.",
