@@ -189,10 +189,10 @@ export const projectsItems = [
   {
     id: 1,
     img: "/images/portfolio-1.png",
-    title: "Movie Streaming website",
-    text: "A full-featured online shopping platform with payment integration, inventory management, and real-time order tracking.",
+    title: "E-commerce website",
+    text: "a fully fucntional E-commerce with stripe payment integration",
     tags: ["Next.js", "Sanity", "Stripe"],
-    link: "https://movie-website-five-kappa.vercel.app/",
+    link: "https://interio-ecommerce-website.vercel.app/",
   },
   {
     id: 2,
