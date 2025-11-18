@@ -199,7 +199,7 @@ export const projectsItems = [
     img: "/images/portfolio-1.png",
     title: "Modern Movie website",
     text: "a fully responsive movie website using Next.js,shadCN and tailwind CSS",
-    tags: ["Next.js", "Sanity", "Stripe"],
+    tags: ["Next.js", "Tailwindcss"],
     link: "https://movie-website-five-kappa966.vercel.app/",
   },
   {
