@@ -188,7 +188,7 @@ export const timelineItems = [
 export const projectsItems = [
   {
     id: 1,
-    img: "/images/portfolio-1.png",
+    img: "/images/portfolio-11.png",
     title: "E-commerce website",
     text: "a fully functional E-commerce website with stripe payment integration",
     tags: ["Next.js", "Sanity", "Stripe"],
@@ -196,7 +196,7 @@ export const projectsItems = [
   },
   {
     id: 2,
-    img: "/images/portfolio-1.png",
+    img: "/images/portfolio-10.png",
     title: "Modern Movie website",
     text: "a fully responsive movie website using Next.js,shadCN and tailwind CSS",
     tags: ["Next.js", "Tailwindcss"],
