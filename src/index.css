@@ -11,7 +11,7 @@
 }
 
 .dark {
-  --background-color: #000000;
+  --background-color: oklch(0.13 0.04 265);
   --foreground-color: #ffffff;
 }
 
