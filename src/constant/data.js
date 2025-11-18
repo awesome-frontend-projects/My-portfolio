@@ -190,7 +190,7 @@ export const projectsItems = [
     id: 1,
     img: "/images/portfolio-1.png",
     title: "E-commerce website",
-    text: "a fully fucntional E-commerce with stripe payment integration",
+    text: "a fully functional E-commerce website with stripe payment integration",
     tags: ["Next.js", "Sanity", "Stripe"],
     link: "https://interio-ecommerce-website.vercel.app/",
   },
