@@ -28,7 +28,7 @@ const Hero = () => {
               variants={variants.fadeInUp}
               className="text-3xl my-[10px_16px] font-semibold"
             >
-              Frontend Developer
+              Full-Stack Developer
             </motion.h1>
             <motion.p variants={variants.fadeInUp}>
               Passionate Front-end developer with 4+ years of experience
