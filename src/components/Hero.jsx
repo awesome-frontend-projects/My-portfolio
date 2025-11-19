@@ -31,7 +31,7 @@ const Hero = () => {
               Full-Stack Developer
             </motion.h1>
             <motion.p variants={variants.fadeInUp}>
-              Passionate Front-end developer with 4+ years of experience
+              Passionate FullStack developer with 4+ years of experience
               building scalable web applications.
             </motion.p>
           </div>
