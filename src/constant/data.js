@@ -189,6 +189,14 @@ export const projectsItems = [
   {
     id: 1,
     img: "/images/portfolio-11.png",
+    title: "Financial Dashboard",
+    text: "A fully responsive Dashboard with stunning interactive Charts",
+    tags: ["Next.js", "Typescript", "Tailwindcss", "shadcn"],
+    link: "https://financial-dashboard-virid-one.vercel.app/",
+  },
+  {
+    id: 2,
+    img: "/images/portfolio-11.png",
     title: "Full-stack E-commerce website",
     text: "a fully functional E-commerce website with stripe payment integration and Clerk Authenication",
     tags: ["Next.js", "Sanity", "Stripe", "clerk"],
