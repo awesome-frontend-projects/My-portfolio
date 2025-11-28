@@ -61,6 +61,12 @@ export const heroItems = [
     text: "React, TypeScript",
   },
   {
+    id: 2,
+    icon: RiDatabase2Line,
+    subtitle: "Backend",
+    text: "Supabase,Sanity (CMS) ,Stripe",
+  },
+  {
     id: 3,
     icon: RiGlobalLine,
     subtitle: "Animations",
@@ -135,16 +141,16 @@ export const aboutItems = [
     label: "Github",
   },
 
-  // {
-  //   id: 10,
-  //   icon: "/images/icon-15.svg",
-  //   label: "Sanity",
-  // },
-  // {
-  //   id: 11,
-  //   icon: "/images/icon-15.svg",
-  //   label: "Stripe",
-  // },
+  {
+    id: 10,
+    icon: "/images/icon-15.svg",
+    label: "Sanity",
+  },
+  {
+    id: 11,
+    icon: "/images/icon-15.svg",
+    label: "Stripe",
+  },
   {
     id: 12,
     icon: "/images/icon-17.svg",
