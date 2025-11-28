@@ -188,7 +188,7 @@ export const timelineItems = [
 export const projectsItems = [
   {
     id: 1,
-    img: "/images/portfolio-.png",
+    img: "/images/portfolio-12.png",
     title: "Financial Dashboard",
     text: "A fully responsive Dashboard with stunning interactive Charts",
     tags: ["Next.js", "Typescript", "Tailwindcss", "shadcn"],
